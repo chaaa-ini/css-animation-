@@ -27,7 +27,7 @@ i {
   transition: all 1s;
 }
 
-i:hover {
+i:active {
   color: rgb(55, 105, 78);
   text-shadow: 0px 0px 80px rgb(55, 105, 78);
   transition: 0s;
